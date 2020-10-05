@@ -13,6 +13,7 @@
 }
 
 .PageHeader--Title {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-size: 6rem;
   margin-bottom: 0;
 }

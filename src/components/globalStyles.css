@@ -1,11 +1,11 @@
 :root {
-  --primary: #00c2bd;
+  --primary: #5217a0;
   --secondary: #000;
   --lightGrey: whitesmoke;
   --midGrey: #cacaca;
   --darkGrey: #272727;
-  --danger: #ff3d3d;
-  --font-primary: 'Open Sans', sans-serif;
+  --danger: #a12c2c;
+  --font-primary: 'roboto', sans-serif;
   --font-system: system-ui; /* postcssPresetEnv */
   --borderRadius: 3px;
 }

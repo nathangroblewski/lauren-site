@@ -2,7 +2,8 @@ import React, { Component } from 'react'
 import { Location } from '@reach/router'
 import { Link } from 'gatsby'
 import { Menu, X } from 'react-feather'
-import Logo from './Logo'
+// import Logo from './Logo'
+// TODO: Add logo component back in when it's created
 
 import './Nav.css'
 
@@ -48,7 +49,7 @@ export class Navigation extends Component {
       <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
         <div className="Nav--Container container">
           <Link to="/" onClick={this.handleLinkClick}>
-            <Logo />
+            {/* <Logo /> */}
           </Link>
           <div className="Nav--Links">
             <NavLink to="/">Home</NavLink>
