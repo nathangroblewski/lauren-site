@@ -5,9 +5,11 @@ import { graphql } from 'gatsby'
 import PageHeader from '../components/PageHeader'
 import FormSimpleAjax from '../components/FormSimpleAjax'
 import Content from '../components/Content'
-import GoogleMap from '../components/GoogleMap'
 import Layout from '../components/Layout'
 import './ContactPage.css'
+
+// import GoogleMap from '../components/GoogleMap'
+//TODO: Add map if she ever adds an in person office
 
 // Export Template for use in CMS preview
 export const ContactPageTemplate = ({
@@ -62,7 +64,7 @@ export const ContactPageTemplate = ({
       </div>
     </section>
 
-    <GoogleMap locations={locations} />
+    {/* <GoogleMap locations={locations} /> */}
   </main>
 )
 
@@ -75,6 +77,13 @@ const ContactPage = ({ data: { page } }) => (
   </Layout>
 )
 
+// TODO: Add these back in the query below if she ever needs map/address data
+// address
+// locations {
+//   mapLink
+//   lat
+//   lng
+//}
 export default ContactPage
 
 export const pageQuery = graphql`
@@ -87,14 +96,8 @@ export const pageQuery = graphql`
         template
         subtitle
         featuredImage
-        address
         phone
         email
-        locations {
-          mapLink
-          lat
-          lng
-        }
       }
     }
   }
