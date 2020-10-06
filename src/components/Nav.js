@@ -4,6 +4,7 @@ import { Link } from 'gatsby'
 import { Menu, X } from 'react-feather'
 // import Logo from './Logo'
 // TODO: Add logo component back in when it's created
+// Also add Blog functionality back in if she needs it
 
 import './Nav.css'
 
@@ -54,7 +55,7 @@ export class Navigation extends Component {
           <div className="Nav--Links">
             <NavLink to="/">Home</NavLink>
             <NavLink to="/components/">Components</NavLink>
-            <div
+            {/* <div
               className={`Nav--Group ${
                 this.state.activeSubNav === 'posts' ? 'active' : ''
               }`}
@@ -85,7 +86,7 @@ export class Navigation extends Component {
                   ))}
                 </div>
               </span>
-            </div>
+            </div> */}
             <NavLink to="/default/">Default</NavLink>
             <NavLink to="/contact/">Contact</NavLink>
           </div>

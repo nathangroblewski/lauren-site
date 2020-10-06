@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-title: Lauren Marie Albert
+title: Lauren Albert
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
 subtitle: 'Licensed LPC and Therapist'
 meta:
