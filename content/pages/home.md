@@ -1,9 +1,9 @@
 ---
 template: HomePage
-slug: ''
+slug: ""
 title: Lauren Albert
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: 'Licensed LPC and Therapist'
+featuredImage: https://ucarecdn.com/11b2631a-b0a3-4512-811f-f0d617d9836c/
+subtitle: Licensed LPC and Therapist
 meta:
   description: This is a meta description.
   title: Title and Site Home Page
