@@ -3,6 +3,7 @@ import CMS from 'netlify-cms-app'
 import './cms-utils'
 
 import { HomePageTemplate } from '../templates/HomePage'
+import { AboutMePageTemplate } from '../templates/AboutMe'
 import { ComponentsPageTemplate } from '../templates/ComponentsPage'
 import { ContactPageTemplate } from '../templates/ContactPage'
 import { DefaultPageTemplate } from '../templates/DefaultPage'
@@ -25,6 +26,9 @@ if (
 
 CMS.registerPreviewTemplate('home-page', ({ entry }) => (
   <HomePageTemplate {...entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('components-page', ({ entry }) => (
+  <AboutMePageTemplate {...entry.toJS().data} />
 ))
 CMS.registerPreviewTemplate('components-page', ({ entry }) => (
   <ComponentsPageTemplate {...entry.toJS().data} />
