@@ -26,5 +26,3 @@ Through a powerful blend of psychotherapy, embodiment coaching and movement
 therapy you can create more freedom, fullness and body satisfaction without
 wasting anymore time in negative thought pattern. This blended approach gets to
 the ROOT cause of body dissatisfaction by using the body itself.
-
-(surrender- accepting imperfections, sensations, movement)

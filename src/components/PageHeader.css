@@ -14,6 +14,7 @@
 
 .PageHeader--Title {
   font-family: 'Roboto', sans-serif;
+  font-style: italic;
   font-weight: 40;
   font-size: 6rem;
   margin-bottom: 0;
