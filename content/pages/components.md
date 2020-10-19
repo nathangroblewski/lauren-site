@@ -1,7 +1,7 @@
 ---
 template: ComponentsPage
 slug: components
-title: About Me
+title: Components
 featuredImage: https://ucarecdn.com/61411a01-c1a1-460b-a8af-625ff78e51d5/
 subtitle: test
 section1: >-
