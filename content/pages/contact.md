@@ -1,16 +1,14 @@
 ---
 template: ContactPage
 slug: contact
-title: Schedule a consultation
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
+title: Schedule a free consultation
+featuredImage: https://ucarecdn.com/4208cc1b-c090-44cb-afaa-87c4d1181721/
 subtitle: This is the contact page subtitle.
-# address: '404 James St, Burleigh Heads QLD 4220' TODO: Add addres/map info back in if she ever has an office
-phone: (908) 451 9627
+address: |-
+  124 Valley Road
+  G
+phone: "6107624501"
 email: laurenalberttherapy@gmail.com
-# locations:
-#   - lat: '-27.9654732'
-#     lng: '153.2432449'
-#     mapLink: ''
 meta:
   description: This is a meta description.
   title: Contact Page
