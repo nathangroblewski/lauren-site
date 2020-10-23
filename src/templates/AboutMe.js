@@ -7,35 +7,29 @@ import Accordion from '../components/Accordion'
 import Gallery from '../components/Gallery'
 import Popup from '../components/Popup'
 
+
 // Export Template for use in CMS preview
 export const AboutMePageTemplate = ({
     section1,
-    section2,
     accordion,
     body,
     gallery
 }) => (
         <main>
             <section className="section">
-                <div className="container">
-                    <Content source={section1} />
-                </div>
-            </section>
-
-            <section className="section">
-                <div className="container">
-                    <h2>Our gallery component</h2>
+                <div className="container" >
+                    {/* <h2>Our gallery component</h2> */}
                     <Gallery images={gallery} />
                 </div>
             </section>
 
             <section className="section">
                 <div className="container">
-                    <Content source={section2} />
+                    <Content source={section1} />
                 </div>
             </section>
 
-            <section className="section">
+            {/* <section className="section">
                 <div className="container">
                     <Accordion items={accordion} />
                 </div>
@@ -47,7 +41,7 @@ export const AboutMePageTemplate = ({
                         <Content source={section1} />
                     </Popup>
                 </div>
-            </section>
+            </section> */}
         </main>
     )
 
@@ -71,7 +65,6 @@ export const pageQuery = graphql`
       frontmatter {
         template
         section1
-        section2
         accordion {
           title
           description
