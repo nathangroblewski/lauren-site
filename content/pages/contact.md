@@ -7,7 +7,7 @@ subtitle:
 address: |-
   124 Valley Road
   G
-phone: "908-451-9626"
+phone: "615-656-7097"
 email: laurenalberttherapy@gmail.com
 meta:
   description: This is a meta description.

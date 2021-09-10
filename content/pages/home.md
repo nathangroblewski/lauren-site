@@ -9,20 +9,8 @@ meta:
   title: Lauren Albert Therapy
   noindex: false
 ---
-**Do you wish you could feel free in your body** but you still can’t release yourself
-from years of nagging negative thoughts that keep you feeling low, disconnecting
-from others and missing out on what “should be” joyful events with your children
-and partner?
+Welcome! I am so glad you are here and are taking the steps to find peace and freedom for yourself or your loved one. My name is Lauren and guiding others to live their lives to the fullest is my goal! Most women and teen girls who come to me wish to be FREE of nagging thoughts, negative self-talk and poor body image. If you find yourself or your child turning to disordered patterns of eating to cope, you are not alone.
 
-Do you have a young teen daughter who seems to be adopting negative body image
-or disordered eating patterns and you need expert advice on **how to help her
-adopt positive self-image, flexibility and confidence in her growing self?**
+As a Licensed Professional Counselor and board-certified Dance/Movement Therapist I have spent years helping girls and women of all ages create lasting change through a powerful blend of psychotherapy and creative arts therapy. Children and teens who may struggle with putting their feelings into words during traditional talk therapy may find using art, movement and music a powerful means to express their thoughts, fears and hopes.
 
-Have you tried **traditional talk therapy** only to find that telling the same old
-stories about my past and no matter how much to you tried to convince yourself to
-love yourself **your body still feels like a stranger?**
-
-Through a powerful blend of psychotherapy, embodiment coaching and movement
-therapy you can create more freedom, fullness and body satisfaction without
-wasting anymore time in negative thought pattern. This blended approach gets to
-the ROOT cause of body dissatisfaction by using the body itself.
+ I currently offer psychotherapy sessions to children, adolescents and women who are struggling with disordered eating patterns, anxiety, depression or low self-esteem in Franklin, TN. I also offer embodiment coaching sessions to women of all ages who have struggled long enough with negative self-image and disordered eating patterns.
